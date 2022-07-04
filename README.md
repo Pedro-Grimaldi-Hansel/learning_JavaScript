@@ -39,6 +39,11 @@ MODULO B:
     document.write(texto a exibir)
     document.writebr(texto a exibir) pula linha
 
+    Para definir o numero de valores dps da virgula:
+    variavel.toFixed(numero de valores)
+
+    
+
 
 
 
